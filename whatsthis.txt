@@ -1,0 +1,1 @@
+is a IM server based on libevent for forwarding message from A to B, just Notification not transmitting message
